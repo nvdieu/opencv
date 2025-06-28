@@ -1,4 +1,4 @@
-# opencv
+# Ghi nhớ OpenCV
 ## Thư viện code và ảnh mẫu OpenCV
 [OpenCV](https://github.com/opencv)
 
